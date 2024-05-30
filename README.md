@@ -1,7 +1,6 @@
 ## Tank Survival Game 
 
 
-## Summary
 Tank Survival is a 3D shooting game. You control a tank and need to fend off enemy invasion from your military base.
 
 You drive around, shoot different types of enemy tanks, collect bonuses and try to avoid penalties.
