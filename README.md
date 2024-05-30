@@ -1,19 +1,25 @@
-# The Survivor Tank Game 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tomerlieber/Unity-Game-The-Survivor-Tank)](https://github.com/tomerlieber/Unity-Game-The-Survivor-Tank/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tomerlieber/Unity-Game-The-Survivor-Tank/blob/master/LICENSE)
+## Tank Survival Game 
+
 
 ## Summary
-The survivor tank is a 3D shooting game. You control a tank and need to fend off enemy invasion to your military base as much as possible.
+Tank Survival is a 3D shooting game. You control a tank and need to fend off enemy invasion from your military base.
+
 You drive around, shoot different types of enemy tanks, collect bonuses and try to avoid penalties.
+
 The game's goal is to get as many points as possible because eventually you meet your demise.
 
-I developed the game as a final project for a Video Game Development course I took during a student exchange program. The game was developed in Unity and written in C#.
+The game was developed in Unity and written in C#.
 
-**You can view a demo of the game by clicking on the image.**
 
-<a href="https://youtu.be/CjsuXfAbV1U"><img src="https://i.ibb.co/d6hjyrB/The-Survivor-Tank-Preview.png" alt="The-Survivor-Tank-Preview" border="0"></a>
 
-## How to play
+## Gameplay
+
+
+
+https://github.com/GoodbyeKittyy/Tank-Survival-Game/assets/161730857/1fe7da2b-7b86-40db-8f5c-a951253406dd
+
+
+
 You will be spawned in the middle of your military base. Use the arrow keys to turn around and drive forward and backward. When you encounter an enemy tank use the space bar to shoot a bullet. Bonuses like better weapons and life will appear for a short time so drive fast to collect them. On the other hand, penalties like bombs and stones from the sky also will appear so drive even faster to avoid them.
 
 ## Installation
