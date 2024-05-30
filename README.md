@@ -9,7 +9,7 @@ The game's goal is to get as many points as possible because eventually you meet
 
 The game was developed in Unity and written in C#.
 
-
+</br></br>
 
 ## Gameplay
 
@@ -17,12 +17,16 @@ The game was developed in Unity and written in C#.
 
 https://github.com/GoodbyeKittyy/Tank-Survival-Game/assets/161730857/1fe7da2b-7b86-40db-8f5c-a951253406dd
 
-
+</br>
 
 You will be spawned in the middle of your military base. Use the arrow keys to turn around and drive forward and backward. When you encounter an enemy tank use the space bar to shoot a bullet. Bonuses like better weapons and life will appear for a short time so drive fast to collect them. On the other hand, penalties like bombs and stones from the sky also will appear so drive even faster to avoid them.
 
+</br></br>
+
 ## Installation
 To run this game, on GitHub navigate to the main page of the repository. To the right of the list of files, click Releases and download the latest release of the game. Another option is to download the GitHub zip file or clone the repository. Open it on Unity and run the game.
+
+</br></br>
 
 ## More details about the game
 You score points by destroying enemy tanks. During the games events will be spawned in random places on the map. The events usually will appear for a limited time and then disappear. The more you survive the invasion, the changes of getting good events go down, while the changes of getting bad events go up. Therefore, eventually you meet your demise. 
